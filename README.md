@@ -6,3 +6,4 @@
 - Trivy File scanner will be used 
 - GitHub Actions will be used to build the docker images and we'll be able to push the docker images 
 - Trivy Image scan will be used to scan the Docker image 
+![image](https://github.com/Sehindemi/GitHub-Actions-Netflix-Deployment/assets/97199481/10476d92-6896-4eca-8700-c46b808f33d9)
