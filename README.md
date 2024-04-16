@@ -13,5 +13,12 @@ On the EC2 Instance we'll Install Sonarqube which would integrate with GitHub ac
 Source code 
 https://github.com/Sehindemi/Netflix-clone-Project
 
+SonarQube Build test outcome
+![image](https://github.com/Sehindemi/GitHub-Actions-Netflix-Deployment/assets/97199481/2b959df4-12bb-477c-beb6-8aa41f4deb49)
+
+DockerHub Netflux image
+![image](https://github.com/Sehindemi/GitHub-Actions-Netflix-Deployment/assets/97199481/4225cffa-3d7f-43e3-b52f-f623b748522d)
+
+
 Overall Outcome
 ![image](https://github.com/Sehindemi/GitHub-Actions-Netflix-Deployment/assets/97199481/126cca61-3c96-4c74-a3e0-05213b061834)
